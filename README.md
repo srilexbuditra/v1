@@ -12,7 +12,7 @@ Website portfolio Full Stack Developer dengan tema dark navy + gold, foto profil
 ## Sebelum dipublikasikan
 Buka `script.js`, lalu ubah:
 
-`const WHATSAPP_NUMBER = "628xxxxxxxxxx";`
+`const WHATSAPP_NUMBER = "6282135238350";`
 
 menjadi nomor WhatsApp Anda dengan format internasional tanpa `+`, spasi, atau tanda `-`.
 
