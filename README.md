@@ -1,4 +1,4 @@
-# Srilex Buditra — Website Lengkap (Desain Gambar No. 4)
+# Srilex Buditra — Website v1
 
 Website portfolio Full Stack Developer dengan tema dark navy + gold, foto profil close-up, layanan, portfolio, paket harga, formulir estimasi, WhatsApp, FAQ, alur pemesanan, dan tombol Cetak/Simpan PDF.
 
